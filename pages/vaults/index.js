@@ -1,6 +1,6 @@
 import { Header, Layout, Modal, Pagination, Table } from "../../components";
 
-function Landing() {
+function Vault() {
 	return (
 		<Layout>
 			<Header />
@@ -11,4 +11,4 @@ function Landing() {
 	);
 }
 
-export default Landing;
+export default Vault;
