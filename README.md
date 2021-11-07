@@ -123,15 +123,15 @@ Clerps will the traded on UniSwap.
 ## Mark price
 The mark price is the price on the UniSwap.
 
-### Index price
+## Index price
 The index price is the price of the NFT class that is dynamically calculated based on the sales events of that NFT on the ethereum blockchain.
 
-### Margin
+## Margin
 User C shorts can collateralise their position with an NFT from the same class. 
 User C longs collateralise with ETH 
 
 
-### Funding 
+## Funding 
 Funding for clerps follows the standard formulation: once per funding period, say, daily, longs must pay shorts MARK-INDEX, most likely denominated in ETH.
 
 In order to guarantee longs will be able to get liquidity when they close their positions, we don't want shorts to accure cash-demonited funding debt. Instead, if shorts must pay funding to longs, the system will have them pay funding in form of additional clerps. 
