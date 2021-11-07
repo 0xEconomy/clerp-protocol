@@ -1,4 +1,4 @@
-import Vault from "../../../models/Vaults";
+import Vault from "../../../models/Vault";
 import "../../../utils/dbConnect";
 
 // eslint-disable-next-line import/no-anonymous-default-export
