@@ -1,5 +1,3 @@
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F0xEconomy%2Fclerp-protocol)
-
 # Clerps is a platform for creating liquid perpetual swap markets for illiquid Non-Fungible Tokens (NFTs).
 
 A clerp is synthetic NFT tracks the price of a given rarity class in an NFT project and can be minted by locking up NFTs from that rarity class in that project. 
